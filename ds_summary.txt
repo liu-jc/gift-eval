@@ -1,0 +1,745 @@
+Discovering datasets...
+Found 55 datasets
+
+Processing datasets with all terms (this may take a while)...
+----------------------------------------------------------------------------------------------------
+[Dataset 1/55] Processing: LOOP_SEATTLE/5T
+  Term: short
+    ✓ Frequency: 5T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 104112.00
+    ✓ Number of series (sampled): 323
+  Term: medium
+    ✓ Frequency: 5T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 95040.00
+    ✓ Number of series (sampled): 323
+  Term: long
+    ✓ Frequency: 5T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 93600.00
+    ✓ Number of series (sampled): 323
+
+[Dataset 2/55] Processing: LOOP_SEATTLE/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 275.00
+    ✓ Number of series (sampled): 323
+
+[Dataset 3/55] Processing: LOOP_SEATTLE/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 7800.00
+    ✓ Number of series (sampled): 323
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 7320.00
+    ✓ Number of series (sampled): 323
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 6600.00
+    ✓ Number of series (sampled): 323
+
+[Dataset 4/55] Processing: M_DENSE/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 610.00
+    ✓ Number of series (sampled): 30
+
+[Dataset 5/55] Processing: M_DENSE/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 16512.00
+    ✓ Number of series (sampled): 30
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 15120.00
+    ✓ Number of series (sampled): 30
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 14640.00
+    ✓ Number of series (sampled): 30
+
+[Dataset 6/55] Processing: SZ_TAXI/15T
+  Term: short
+    ✓ Frequency: 15T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 2592.00
+    ✓ Number of series (sampled): 156
+  Term: medium
+    ✓ Frequency: 15T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 2016.00
+    ✓ Number of series (sampled): 156
+  Term: long
+    ✓ Frequency: 15T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 1536.00
+    ✓ Number of series (sampled): 156
+
+[Dataset 7/55] Processing: SZ_TAXI/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 600.00
+    ✓ Number of series (sampled): 156
+
+[Dataset 8/55] Processing: bitbrains_fast_storage/5T
+  Term: short
+    ✓ Frequency: 5T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 7728.00
+    ✓ Number of series (sampled): 1000
+  Term: medium
+    ✓ Frequency: 5T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 7200.00
+    ✓ Number of series (sampled): 1000
+  Term: long
+    ✓ Frequency: 5T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 6480.00
+    ✓ Number of series (sampled): 1000
+
+[Dataset 9/55] Processing: bitbrains_fast_storage/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 577.00
+    ✓ Number of series (sampled): 1000
+
+[Dataset 10/55] Processing: bitbrains_rnd/5T
+  Term: short
+    ✓ Frequency: 5T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 7728.00
+    ✓ Number of series (sampled): 500
+  Term: medium
+    ✓ Frequency: 5T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 7200.00
+    ✓ Number of series (sampled): 500
+  Term: long
+    ✓ Frequency: 5T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 6480.00
+    ✓ Number of series (sampled): 500
+
+[Dataset 11/55] Processing: bitbrains_rnd/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 576.00
+    ✓ Number of series (sampled): 500
+
+[Dataset 12/55] Processing: bizitobs_application
+  Term: short
+    ✓ Frequency: 10S
+    ✓ Prediction length: 60
+    ✓ Avg context length: 7874.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: 10S
+    ✓ Prediction length: 600
+    ✓ Avg context length: 7034.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: 10S
+    ✓ Prediction length: 900
+    ✓ Avg context length: 7034.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 13/55] Processing: bizitobs_l2c/5T
+  Term: short
+    ✓ Frequency: 5T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 30960.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: 5T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 28128.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: 5T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 27648.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 14/55] Processing: bizitobs_l2c/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 2328.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 1704.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 1224.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 15/55] Processing: bizitobs_service
+  Term: short
+    ✓ Frequency: 10S
+    ✓ Prediction length: 60
+    ✓ Avg context length: 7875.00
+    ✓ Number of series (sampled): 21
+  Term: medium
+    ✓ Frequency: 10S
+    ✓ Prediction length: 600
+    ✓ Avg context length: 7035.00
+    ✓ Number of series (sampled): 21
+  Term: long
+    ✓ Frequency: 10S
+    ✓ Prediction length: 900
+    ✓ Avg context length: 7035.00
+    ✓ Number of series (sampled): 21
+
+[Dataset 16/55] Processing: car_parts_with_missing
+  Term: short
+    ✓ Frequency: M
+    ✓ Prediction length: 12
+    ✓ Avg context length: 27.00
+    ✓ Number of series (sampled): 1000
+
+[Dataset 17/55] Processing: covid_deaths
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 152.00
+    ✓ Number of series (sampled): 266
+
+[Dataset 18/55] Processing: electricity/15T
+  Term: short
+    ✓ Frequency: 15T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 139248.00
+    ✓ Number of series (sampled): 370
+  Term: medium
+    ✓ Frequency: 15T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 130176.00
+    ✓ Number of series (sampled): 370
+  Term: long
+    ✓ Frequency: 15T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 125136.00
+    ✓ Number of series (sampled): 370
+
+[Dataset 19/55] Processing: electricity/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 1281.00
+    ✓ Number of series (sampled): 370
+
+[Dataset 20/55] Processing: electricity/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 34056.00
+    ✓ Number of series (sampled): 370
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 30744.00
+    ✓ Number of series (sampled): 370
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 30744.00
+    ✓ Number of series (sampled): 370
+
+[Dataset 21/55] Processing: electricity/W
+  Term: short
+    ✓ Frequency: W-FRI
+    ✓ Prediction length: 8
+    ✓ Avg context length: 176.00
+    ✓ Number of series (sampled): 370
+
+[Dataset 22/55] Processing: ett1/15T
+  Term: short
+    ✓ Frequency: 15T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 68672.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: 15T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 62000.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: 15T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 61760.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 23/55] Processing: ett1/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 605.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 24/55] Processing: ett1/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 16412.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 15020.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 14540.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 25/55] Processing: ett1/W
+  Term: short
+    ✓ Frequency: W-THU
+    ✓ Prediction length: 8
+    ✓ Avg context length: 79.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 26/55] Processing: ett2/15T
+  Term: short
+    ✓ Frequency: 15T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 68672.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: 15T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 62000.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: 15T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 61760.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 27/55] Processing: ett2/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 605.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 28/55] Processing: ett2/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 16412.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 15020.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 14540.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 29/55] Processing: ett2/W
+  Term: short
+    ✓ Frequency: W-THU
+    ✓ Prediction length: 8
+    ✓ Avg context length: 79.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 30/55] Processing: hierarchical_sales/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 1585.00
+    ✓ Number of series (sampled): 118
+
+[Dataset 31/55] Processing: hierarchical_sales/W
+  Term: short
+    ✓ Frequency: W-WED
+    ✓ Prediction length: 8
+    ✓ Avg context length: 220.00
+    ✓ Number of series (sampled): 118
+
+[Dataset 32/55] Processing: hospital
+  Term: short
+    ✓ Frequency: M
+    ✓ Prediction length: 12
+    ✓ Avg context length: 60.00
+    ✓ Number of series (sampled): 767
+
+[Dataset 33/55] Processing: jena_weather/10T
+  Term: short
+    ✓ Frequency: 10T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 51696.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: 10T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 46944.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: 10T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 46224.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 34/55] Processing: jena_weather/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 276.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 35/55] Processing: jena_weather/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 7824.00
+    ✓ Number of series (sampled): 1
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 7344.00
+    ✓ Number of series (sampled): 1
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 6624.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 36/55] Processing: kdd_cup_2018_with_missing/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 364.78
+    ✓ Number of series (sampled): 270
+
+[Dataset 37/55] Processing: kdd_cup_2018_with_missing/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 9889.64
+    ✓ Number of series (sampled): 270
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 9457.64
+    ✓ Number of series (sampled): 270
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 8737.64
+    ✓ Number of series (sampled): 270
+
+[Dataset 38/55] Processing: m4_daily
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 14
+    ✓ Avg context length: 2192.23
+    ✓ Number of series (sampled): 1000
+
+[Dataset 39/55] Processing: m4_hourly
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 805.86
+    ✓ Number of series (sampled): 414
+
+[Dataset 40/55] Processing: m4_monthly
+  Term: short
+    ✓ Frequency: M
+    ✓ Prediction length: 18
+    ✓ Avg context length: 296.63
+    ✓ Number of series (sampled): 1000
+
+[Dataset 41/55] Processing: m4_quarterly
+  Term: short
+    ✓ Frequency: Q-DEC
+    ✓ Prediction length: 8
+    ✓ Avg context length: 64.55
+    ✓ Number of series (sampled): 1000
+
+[Dataset 42/55] Processing: m4_weekly
+  Term: short
+    ✓ Frequency: W-SUN
+    ✓ Prediction length: 13
+    ✓ Avg context length: 1009.04
+    ✓ Number of series (sampled): 359
+
+[Dataset 43/55] Processing: m4_yearly
+  Term: short
+    ✓ Frequency: A-DEC
+    ✓ Prediction length: 6
+    ✓ Avg context length: 28.88
+    ✓ Number of series (sampled): 1000
+
+[Dataset 44/55] Processing: restaurant
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 298.49
+    ✓ Number of series (sampled): 807
+
+[Dataset 45/55] Processing: saugeenday/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 23111.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 46/55] Processing: saugeenday/M
+  Term: short
+    ✓ Frequency: M
+    ✓ Prediction length: 12
+    ✓ Avg context length: 684.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 47/55] Processing: saugeenday/W
+  Term: short
+    ✓ Frequency: W-THU
+    ✓ Prediction length: 8
+    ✓ Avg context length: 3223.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 48/55] Processing: solar/10T
+  Term: short
+    ✓ Frequency: 10T
+    ✓ Prediction length: 48
+    ✓ Avg context length: 51552.00
+    ✓ Number of series (sampled): 137
+  Term: medium
+    ✓ Frequency: 10T
+    ✓ Prediction length: 480
+    ✓ Avg context length: 46800.00
+    ✓ Number of series (sampled): 137
+  Term: long
+    ✓ Frequency: 10T
+    ✓ Prediction length: 720
+    ✓ Avg context length: 46080.00
+    ✓ Number of series (sampled): 137
+
+[Dataset 49/55] Processing: solar/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 275.00
+    ✓ Number of series (sampled): 137
+
+[Dataset 50/55] Processing: solar/H
+  Term: short
+    ✓ Frequency: H
+    ✓ Prediction length: 48
+    ✓ Avg context length: 7800.00
+    ✓ Number of series (sampled): 137
+  Term: medium
+    ✓ Frequency: H
+    ✓ Prediction length: 480
+    ✓ Avg context length: 7320.00
+    ✓ Number of series (sampled): 137
+  Term: long
+    ✓ Frequency: H
+    ✓ Prediction length: 720
+    ✓ Avg context length: 6600.00
+    ✓ Number of series (sampled): 137
+
+[Dataset 51/55] Processing: solar/W
+  Term: short
+    ✓ Frequency: W-FRI
+    ✓ Prediction length: 8
+    ✓ Avg context length: 36.00
+    ✓ Number of series (sampled): 137
+
+[Dataset 52/55] Processing: temperature_rain_with_missing
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 605.00
+    ✓ Number of series (sampled): 1000
+
+[Dataset 53/55] Processing: us_births/D
+  Term: short
+    ✓ Frequency: D
+    ✓ Prediction length: 30
+    ✓ Avg context length: 6675.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 54/55] Processing: us_births/M
+  Term: short
+    ✓ Frequency: M
+    ✓ Prediction length: 12
+    ✓ Avg context length: 204.00
+    ✓ Number of series (sampled): 1
+
+[Dataset 55/55] Processing: us_births/W
+  Term: short
+    ✓ Frequency: W-TUE
+    ✓ Prediction length: 8
+    ✓ Avg context length: 923.00
+    ✓ Number of series (sampled): 1
+
+====================================================================================================
+DATASET SUMMARY
+====================================================================================================
+
+Successfully processed: 97 dataset-term combinations (55 unique datasets)
+
+Overall Statistics:
+  Average context length (across datasets): 19814.10
+  Median context length: 7200.00
+  Min context length: 27.00
+  Max context length: 139248.00
+
+  Average prediction length: 284.61
+  Median prediction length: 48.00
+  Min prediction length: 6
+  Max prediction length: 900
+
+  Average number of series (per dataset-term): 238.05
+  Total number of series (across all dataset-terms): 23,091
+
+Detailed Dataset Information:
+------------------------------------------------------------------------------------------------------------------------
+Dataset Name                             Term     Freq     Pred Len   Avg Ctx Len     Num Series  
+------------------------------------------------------------------------------------------------------------------------
+LOOP_SEATTLE/5T                          long     5T       720        93600.00        323         
+LOOP_SEATTLE/5T                          medium   5T       480        95040.00        323         
+LOOP_SEATTLE/5T                          short    5T       48         104112.00       323         
+LOOP_SEATTLE/D                           short    D        30         275.00          323         
+LOOP_SEATTLE/H                           long     H        720        6600.00         323         
+LOOP_SEATTLE/H                           medium   H        480        7320.00         323         
+LOOP_SEATTLE/H                           short    H        48         7800.00         323         
+M_DENSE/D                                short    D        30         610.00          30          
+M_DENSE/H                                long     H        720        14640.00        30          
+M_DENSE/H                                medium   H        480        15120.00        30          
+M_DENSE/H                                short    H        48         16512.00        30          
+SZ_TAXI/15T                              long     15T      720        1536.00         156         
+SZ_TAXI/15T                              medium   15T      480        2016.00         156         
+SZ_TAXI/15T                              short    15T      48         2592.00         156         
+SZ_TAXI/H                                short    H        48         600.00          156         
+bitbrains_fast_storage/5T                long     5T       720        6480.00         1000        
+bitbrains_fast_storage/5T                medium   5T       480        7200.00         1000        
+bitbrains_fast_storage/5T                short    5T       48         7728.00         1000        
+bitbrains_fast_storage/H                 short    H        48         577.00          1000        
+bitbrains_rnd/5T                         long     5T       720        6480.00         500         
+bitbrains_rnd/5T                         medium   5T       480        7200.00         500         
+bitbrains_rnd/5T                         short    5T       48         7728.00         500         
+bitbrains_rnd/H                          short    H        48         576.00          500         
+bizitobs_application                     long     10S      900        7034.00         1           
+bizitobs_application                     medium   10S      600        7034.00         1           
+bizitobs_application                     short    10S      60         7874.00         1           
+bizitobs_l2c/5T                          long     5T       720        27648.00        1           
+bizitobs_l2c/5T                          medium   5T       480        28128.00        1           
+bizitobs_l2c/5T                          short    5T       48         30960.00        1           
+bizitobs_l2c/H                           long     H        720        1224.00         1           
+bizitobs_l2c/H                           medium   H        480        1704.00         1           
+bizitobs_l2c/H                           short    H        48         2328.00         1           
+bizitobs_service                         long     10S      900        7035.00         21          
+bizitobs_service                         medium   10S      600        7035.00         21          
+bizitobs_service                         short    10S      60         7875.00         21          
+car_parts_with_missing                   short    M        12         27.00           1000        
+covid_deaths                             short    D        30         152.00          266         
+electricity/15T                          long     15T      720        125136.00       370         
+electricity/15T                          medium   15T      480        130176.00       370         
+electricity/15T                          short    15T      48         139248.00       370         
+electricity/D                            short    D        30         1281.00         370         
+electricity/H                            long     H        720        30744.00        370         
+electricity/H                            medium   H        480        30744.00        370         
+electricity/H                            short    H        48         34056.00        370         
+electricity/W                            short    W-FRI    8          176.00          370         
+ett1/15T                                 long     15T      720        61760.00        1           
+ett1/15T                                 medium   15T      480        62000.00        1           
+ett1/15T                                 short    15T      48         68672.00        1           
+ett1/D                                   short    D        30         605.00          1           
+ett1/H                                   long     H        720        14540.00        1           
+ett1/H                                   medium   H        480        15020.00        1           
+ett1/H                                   short    H        48         16412.00        1           
+ett1/W                                   short    W-THU    8          79.00           1           
+ett2/15T                                 long     15T      720        61760.00        1           
+ett2/15T                                 medium   15T      480        62000.00        1           
+ett2/15T                                 short    15T      48         68672.00        1           
+ett2/D                                   short    D        30         605.00          1           
+ett2/H                                   long     H        720        14540.00        1           
+ett2/H                                   medium   H        480        15020.00        1           
+ett2/H                                   short    H        48         16412.00        1           
+ett2/W                                   short    W-THU    8          79.00           1           
+hierarchical_sales/D                     short    D        30         1585.00         118         
+hierarchical_sales/W                     short    W-WED    8          220.00          118         
+hospital                                 short    M        12         60.00           767         
+jena_weather/10T                         long     10T      720        46224.00        1           
+jena_weather/10T                         medium   10T      480        46944.00        1           
+jena_weather/10T                         short    10T      48         51696.00        1           
+jena_weather/D                           short    D        30         276.00          1           
+jena_weather/H                           long     H        720        6624.00         1           
+jena_weather/H                           medium   H        480        7344.00         1           
+jena_weather/H                           short    H        48         7824.00         1           
+kdd_cup_2018_with_missing/D              short    D        30         364.78          270         
+kdd_cup_2018_with_missing/H              long     H        720        8737.64         270         
+kdd_cup_2018_with_missing/H              medium   H        480        9457.64         270         
+kdd_cup_2018_with_missing/H              short    H        48         9889.64         270         
+m4_daily                                 short    D        14         2192.23         1000        
+m4_hourly                                short    H        48         805.86          414         
+m4_monthly                               short    M        18         296.63          1000        
+m4_quarterly                             short    Q-DEC    8          64.55           1000        
+m4_weekly                                short    W-SUN    13         1009.04         359         
+m4_yearly                                short    A-DEC    6          28.88           1000        
+restaurant                               short    D        30         298.49          807         
+saugeenday/D                             short    D        30         23111.00        1           
+saugeenday/M                             short    M        12         684.00          1           
+saugeenday/W                             short    W-THU    8          3223.00         1           
+solar/10T                                long     10T      720        46080.00        137         
+solar/10T                                medium   10T      480        46800.00        137         
+solar/10T                                short    10T      48         51552.00        137         
+solar/D                                  short    D        30         275.00          137         
+solar/H                                  long     H        720        6600.00         137         
+solar/H                                  medium   H        480        7320.00         137         
+solar/H                                  short    H        48         7800.00         137         
+solar/W                                  short    W-FRI    8          36.00           137         
+temperature_rain_with_missing            short    D        30         605.00          1000        
+us_births/D                              short    D        30         6675.00         1           
+us_births/M                              short    M        12         204.00          1           
+us_births/W                              short    W-TUE    8          923.00          1           
+
+Summary by Term:
+------------------------------------------------------------------------------------------------------------------------
+
+SHORT term (55 datasets):
+  Avg context length: 13024.04 (min: 27.00, max: 139248.00)
+  Avg prediction length: 32.85 (min: 6, max: 60)
+  Avg number of series: 287.25
+  Total number of series: 15,799
+
+MEDIUM term (21 datasets):
+  Avg context length: 29077.27 (min: 1704.00, max: 130176.00)
+  Avg prediction length: 491.43 (min: 480, max: 600)
+  Avg number of series: 173.62
+  Total number of series: 3,646
+
+LONG term (21 datasets):
+  Avg context length: 28334.41 (min: 1224.00, max: 125136.00)
+  Avg prediction length: 737.14 (min: 720, max: 900)
+  Avg number of series: 173.62
+  Total number of series: 3,646
+
+Saving detailed results to dataset_summary.csv...
+Summary saved to dataset_summary.csv
