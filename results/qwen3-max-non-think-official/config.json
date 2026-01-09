@@ -1,0 +1,24 @@
+{
+    "model": "qwen3-max-non-think-official",
+    "model_type": "pretrained",
+    "model_dtype": "float32",
+    "api_provider": "qwen",
+    "base_model": "qwen3-max",
+    "num_samples": 5,
+    "temperature": 0.7,
+    "max_context_length": 4000,
+    "enable_reasoning": false,
+    "save_intermediate_results": true,
+    "test_dataset_configs": [
+        "kdd_cup_2018_with_missing/D/short",
+        "restaurant",
+        "hierarchical_sales/W/short",
+        "solar/W/short",
+        "SZ_TAXI/H",
+        "M_DENSE/D",
+        "m4_hourly",
+        "m4_weekly",
+        "covid_deaths",
+        "hospital"
+    ]
+}
